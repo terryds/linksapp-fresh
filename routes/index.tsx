@@ -93,8 +93,8 @@ export default function Home({ data }: PageProps<HandlerProps | null>) {
       <div class="flex flex-col w-full mt-12 mb-28">
         <div class="flex flex-col items-center w-full w-full rounded-xl p-4">
           <AvatarComponent avatar={githubProfile.avatar_url} />
-          <UsernameComponent username={githubProfile.login} />
-          <BioComponent bio={githubProfile.bio} />
+          <UsernameComponent username={username} />
+          <BioComponent bio={bio} />
           {location && <LocationComponent location={githubProfile.location} />}
           {readme && <ReadmeButtonComponent />}
           <div class="mb-4"></div>
