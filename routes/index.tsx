@@ -32,7 +32,7 @@ export const handler: Handlers<HandlerProps | null> = {
 
     let feed = undefined;
     if (rss) feed = await fetchFeed(rss);
-    const res = await fetch("https://api.github.com/users/harshmangalam");
+    const res = await fetch("https://api.github.com/users/terryds");
     const jsonData = await res.json();
 
     return ctx.render({
