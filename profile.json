@@ -1,23 +1,23 @@
 {
   "$schema": "./profile.schema.json",
-  "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/1200px-Cat_November_2010-1a.jpg",
-  "username": "John Smith",
+  "avatar": "https://avatars.githubusercontent.com/u/11571395?v=4",
+  "username": "Terry Djony",
   "links": [
-    { "url": "https://example.com", "title": "Photo book" },
-    { "url": "https://example.com", "title": "Website" },
-    { "url": "https://example.com", "title": "Discord" }
+    { "url": "https://terrybuildstartup.substack.com", "title": "My newsletter of Tech, Business, and Startup" },
+    { "url": "https://discord.gg/HwgmC8JQ", "title": "My community of next-gen founders and makers" },
+    { "url": "https://arbofinance.com", "title": "Startup that we're building now" }
   ],
-  "bio": "Software Developer / Photographer",
-  "location": "Vienna, Austria",
+  "bio": "Tech Startup Founder",
+  "location": "Bandung, Indonesia",
   "socialAccounts": {
-    "github": "/github/harshmangalam",
-    "instagram": "https://instagram.com/",
-    "twitter": "https://twitter.com/"
+    "github": "https://github.com/terryds",
+    "twitter": "https://twitter.com/Terry_Djony",
+    "linkedin": "https://linkedin.com/in/terry-djony-tech-entrepreneur"
   },
   "banner": {
-    "title": "Photo book release!",
-    "text": "You can now order my newly released photobook."
+    "title": "Join community of next-gen founders and builders",
+    "text": "Share, learn, and ship on weekends "
   },
-  "rss": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-  "readme": "https://gist.githubusercontent.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc/raw/d59043abbb123089ad6602aba571121b71d91d7f/README-Template.md"
+  "rss": "https://terrybuildstartup.substack.com/feed",
+  "readme": "https://raw.githubusercontent.com/terryds/terryds/main/README.md"
 }
