@@ -4,7 +4,6 @@
   "username": "Terry Djony",
   "links": [
     { "url": "https://terrybuildstartup.substack.com", "title": "Newsletter of Tech, Business, and Startup" },
-    { "url": "https://discord.gg/HwgmC8JQ", "title": "Community of next-gen founders and makers" },
     { "url": "https://arbofinance.com", "title": "Startup that currently I'm building" }
   ],
   "bio": "Tech Startup Founder. YC Alumni. Entrepreneur, self-taught programmer. Grew up in 3rd-tier city in Indonesia.",
@@ -13,10 +12,6 @@
     "github": "https://github.com/terryds",
     "twitter": "https://twitter.com/Terry_Djony",
     "linkedin": "https://linkedin.com/in/terry-djony-tech-entrepreneur"
-  },
-  "banner": {
-    "title": "Join community of next-gen founders and builders",
-    "text": "Share, learn, and ship on weekends "
   },
   "rss": "https://terrybuildstartup.substack.com/feed",
   "readme": "https://raw.githubusercontent.com/terryds/terryds/main/README.md"
