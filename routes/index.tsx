@@ -54,6 +54,7 @@ export default function Home({ data }: PageProps<HandlerProps | null>) {
     socialAccounts,
     banner,
     links,
+    projects,
     readme,
   } = profile;
   const { feed,githubProfile } = data;
@@ -102,7 +103,7 @@ export default function Home({ data }: PageProps<HandlerProps | null>) {
           {banner && (
             <BannerComponent title={banner.title} text={banner.text} />
           )}
-          <TabsIsland links={links} feed={feed} />
+          <TabsIsland links={links} feed={feed} projects={projects} />
         </div>
       </div>
     </main>

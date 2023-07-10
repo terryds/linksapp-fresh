@@ -120,6 +120,28 @@
       },
       "minItems": 1
     },
+    "projects": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^(https)://"
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 50
+          }
+        },
+        "required": [
+          "url",
+          "title"
+        ]
+      }
+    },
     "rss": {
       "type": "string",
       "format": "uri",
