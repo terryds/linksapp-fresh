@@ -75,7 +75,7 @@ export default function TabsIsland(props: TabsProps) {
                 href="#"
                 role="tablist"
               >
-                ZFounders
+                Newsletter
               </a>
             </li>
             <li class="-mb-px mr-2 last:mr-0 flex-auto text-center">
