@@ -25,10 +25,17 @@
   "location": "Bandung, Indonesia",
   "projects": [
     {
+      "url": "https://firstsupport.ai",
+      "title": "FirstSupport",
+      "year": 2024,
+      "description": "AI Assistant for Customer Support. SaaS.",
+      "emoji": "🤖"
+    },
+    {
       "url": "https://chatbiz.id",
       "title": "Chatbiz",
       "year": 2020,
-      "description": "WhatsApp Chatbot Service Agency. SaaS. Company.",
+      "description": "WhatsApp Chatbot Service Agency. SaaS.",
       "emoji": "🤖"
     },
     {
@@ -49,14 +56,14 @@
       "url": "https://arbofinance.com",
       "title": "Arbofinance",
       "year": 2023,
-      "description": "Webhook for bank data and finance reconciliation in Southeast Asia (DISCONTINUED). SaaS. Company.",
+      "description": "Webhook for bank data and finance reconciliation in Southeast Asia (DISCONTINUED). SaaS.",
       "emoji": "🏦"
     },
     {
       "url": "https://orderdulu.com",
       "title": "Orderdulu",
       "year": 2022,
-      "description": "Storefront and Order Management For Businesses on WhatsApp (ACQUIRED - USERS MIGRATED). SaaS. Company.",
+      "description": "Storefront and Order Management For Businesses on WhatsApp (ACQUIRED - USERS MIGRATED). SaaS.",
       "emoji": "🍔"
     },
     {
