@@ -78,7 +78,7 @@ export default function TabsIsland(props: TabsProps) {
                 Newsletter
               </a>
             </li>
-            <li class="-mb-px mr-2 last:mr-0 flex-auto text-center">
+            {/* <li class="-mb-px mr-2 last:mr-0 flex-auto text-center">
               <a
                 class={`rounded-lg text-xs font-bold px-1 py-1 block leading-normal ${
                   openTab === 3
@@ -95,7 +95,7 @@ export default function TabsIsland(props: TabsProps) {
               >
                 Social Accounts
               </a>
-            </li>
+            </li> */}
           </ul>
         )}
         <div class="relative mt-4 flex flex-col bg-white w-full">
@@ -136,7 +136,7 @@ export default function TabsIsland(props: TabsProps) {
                     ))}
                 </div>
               )}
-              {links && (
+              {/* {links && (
                 <div class={`${openTab === 3 ? "block space-y-3" : "hidden"}`}>
                   <ul class="space-y-2">
                     {links.length === 0 && (
@@ -152,7 +152,7 @@ export default function TabsIsland(props: TabsProps) {
                     ))}
                   </ul>
                 </div>
-              )}
+              )} */}
             </div>
           </div>
         </div>

@@ -97,7 +97,7 @@ export default function Home({ data }: PageProps<HandlerProps | null>) {
           <UsernameComponent username={username} />
           <BioComponent bio={bio} />
           {location && <LocationComponent location={githubProfile.location} />}
-          {readme && <ReadmeButtonComponent />}
+          {/* {readme && <ReadmeButtonComponent />} */}
           <div class="mb-4"></div>
           <SocialLinksComponent socialAccounts={socialAccounts} />
           {banner && (
