@@ -39,7 +39,7 @@
       "url": "https://recordscript.com",
       "title": "Recordscript",
       "year": 2024,
-      "description": "Open-source video recorder + transcriber + subtitler, built with Rust & WhisperCpps",
+      "description": "Open-source video recorder + transcriber + subtitler, built with Rust & WhisperCpp",
       "emoji": "⏺️"
     },
     {
