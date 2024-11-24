@@ -34,6 +34,27 @@
       "year": 2024,
       "description": "Google Sheets Add-on to enable GPT, Perplexity & custom AI functions. Indie.",
       "emoji": "🥬"
+    },
+    {
+      "url": "https://recordscript.com",
+      "title": "Recordscript",
+      "year": 2024,
+      "description": "Open-source video recorder + transcriber + subtitler, built with Rust & WhisperCpps",
+      "emoji": "⏺️"
+    },
+    {
+      "url": "https://web3grind.com",
+      "title": "Web3Grind",
+      "year": 2024,
+      "description": "Learn Web3 by building projects immediately. Tutorials",
+      "emoji": "🔗"
+    },
+    {
+      "url": "https://chatbiz.id",
+      "title": "Chatbiz",
+      "year": 2021,
+      "description": "WhatsApp chatbot development service in Indonesia",
+      "emoji": "💬"
     },{
       "url": "https://aiplaceholder.terrydjony.com",
       "title": "AI Placeholder",
