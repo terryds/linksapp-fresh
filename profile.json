@@ -25,14 +25,21 @@
       "url": "https://firstsupport.ai",
       "title": "FirstSupport",
       "year": 2024,
-      "description": "AI Assistant for Customer Support. SaaS.",
+      "description": "QA Automation for Customer Support",
       "emoji": "🤖"
     },
     {
-      "url": "https://gptsheetsplus.com",
-      "title": "GPT Sheets Plus",
+      "url": "https://chatbiz.id",
+      "title": "Chatbiz",
+      "year": 2021,
+      "description": "WhatsApp chatbot development service in Indonesia",
+      "emoji": "💬"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/snipsolve-ai-screenshot-q/fjehagceeddnbhaegakpeogackjfplhh?hl=en",
+      "title": "SnipSolve AI",
       "year": 2024,
-      "description": "Google Sheets Add-on to enable GPT, Perplexity & custom AI functions. Indie.",
+      "description": "Chrome Extension to solve questions easily with built-in snipping tool and AI",
       "emoji": "🥬"
     },
     {
@@ -43,24 +50,32 @@
       "emoji": "⏺️"
     },
     {
-      "url": "https://web3grind.com",
-      "title": "Web3Grind",
+      "url": "https://workspace.google.com/marketplace/app/gptsheets_plus_for_google_sheets/317467506042",
+      "title": "GPT Sheets Plus",
       "year": 2024,
-      "description": "Learn Web3 by building projects immediately. Tutorials",
-      "emoji": "🔗"
+      "description": "Formula add-on for Sheets to use Perplexity, OpenAI GPT, and more for just a one-time fee",
+      "emoji": "🧪"
     },
     {
-      "url": "https://chatbiz.id",
-      "title": "Chatbiz",
-      "year": 2021,
-      "description": "WhatsApp chatbot development service in Indonesia",
-      "emoji": "💬"
-    },{
-      "url": "https://aiplaceholder.terrydjony.com",
-      "title": "AI Placeholder",
-      "year": 2023,
-      "description": "AI-Powered Fake JSON Data Generator. Alternative of JSON Placeholder. Devtool. Indie.",
-      "emoji": "🧪"
+      "url": "https://youtubevideotranscripts.com/",
+      "title": "Youtube Video Transcripts",
+      "year": 2025,
+      "description": "Free site to get a transcript of a youtube video quickly with search functionality",
+      "emoji": "📹"
+    },
+    {
+      "url": "https://ytcaptionplus.com",
+      "title": "Youtube Caption Plus",
+      "year": 2025,
+      "description": "Chrome extension to search transcript in a Youtube video, chat with AI about video content, and summarize overall content & chapter-by-chapter",
+      "emoji": "📹"
+    },
+    {
+      "url": "http://explorer.awesometon.xyz/",
+      "title": "dTON Explorer",
+      "year": 2025,
+      "description": "TON Blockchain Query & Data Explorer using dTON",
+      "emoji": "🕸️"
     }
   ],
   "socialAccounts": {
